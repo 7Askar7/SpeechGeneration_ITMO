@@ -1,0 +1,7 @@
+lm/
+parameter_test_checkpoint.csv
+parameter_test_results.csv
+parameter_analysis.md
+gen_env/
+genspeech/
+__pycache__/
