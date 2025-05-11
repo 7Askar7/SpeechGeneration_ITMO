@@ -1,0 +1,14 @@
+dev
+test
+train
+submission_2.csv
+submission.csv
+ctc_model2.pth
+
+__pycache__
+*.pth
+*.csv
+*.pt
+*.pt.gz
+*.pt.tar.gz
+*.pt.tar.gz.part
